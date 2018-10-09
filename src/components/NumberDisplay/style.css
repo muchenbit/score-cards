@@ -1,0 +1,9 @@
+#number-display {
+  display: flex;
+  flex-grow: 3;
+  font-weight: 700;
+  font-size: 10rem;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}

@@ -1,0 +1,14 @@
+.number-button {
+  display: flex;
+  font-size: 2em;
+  height: 25vw;
+  width: 25vw;
+  background-color: #6445ef;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.number-button:active {
+  background-color: #472eba;
+}

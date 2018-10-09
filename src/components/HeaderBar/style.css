@@ -1,0 +1,8 @@
+#header-bar {
+  background-color: #6445ef;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  font-weight: 700;
+  flex: 0;
+}
